@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cemke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cemke\\.nuget\\packages"
+    ]
+  }
+}
